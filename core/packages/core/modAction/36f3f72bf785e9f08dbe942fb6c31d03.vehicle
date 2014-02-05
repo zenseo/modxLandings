@@ -1,0 +1,17 @@
+<?php return array (
+  'preserve_keys' => false,
+  'update_object' => true,
+  'unique_key' => 
+  array (
+    0 => 'namespace',
+    1 => 'controller',
+  ),
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '73d191d0c1734b70bd42431f3a948e67',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '36f3f72bf785e9f08dbe942fb6c31d03',
+  'native_key' => 106,
+  'object' => '{"id":106,"namespace":"core","controller":"source\\/update","haslayout":1,"lang_topics":"sources,namespace","assets":"","help_url":"Media+Sources"}',
+);

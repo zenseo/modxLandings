@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => false,
+  'unique_key' => 
+  array (
+    0 => 'name',
+  ),
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '04f021c2a10f8e875d819951c0642397',
+  'package' => 'modx',
+  'class' => 'modAccessPolicy',
+  'signature' => 'eaffaf6575a7b95f7d7d48c9e177092d',
+  'native_key' => 6,
+  'object' => '{"id":6,"name":"Element","description":"MODX Element policy with all attributes.","parent":0,"template":0,"class":"","data":"{\\"add_children\\":true,\\"create\\":true,\\"delete\\":true,\\"list\\":true,\\"load\\":true,\\"remove\\":true,\\"save\\":true,\\"view\\":true,\\"copy\\":true}","lexicon":"permissions"}',
+);

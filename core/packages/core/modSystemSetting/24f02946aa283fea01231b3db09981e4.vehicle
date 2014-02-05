@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6ddd9c7ed46f88ff45e973ae992ce2ad',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '24f02946aa283fea01231b3db09981e4',
+  'native_key' => 'forward_merge_excludes',
+  'object' => '{"key":"forward_merge_excludes","value":"type,published,class_key","xtype":"textfield","namespace":"core","area":"system","editedon":null}',
+);

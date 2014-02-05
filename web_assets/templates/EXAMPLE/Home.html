@@ -1,0 +1,26 @@
+[[!FormIt?
+ &hooks=`spam,email`
+ &emailTpl=`EmailTemplate`
+ &emailTo=`[[++emailsender]]`
+ &validate=`name:required:stripTags,
+            adress:email:required,
+            phone:required:stripTags,
+            email:blank`
+]]
+<html>
+<head>
+<title>[[++site_name]] - [[*pagetitle]]</title>
+<base href="[[++site_url]]" />
+</head>
+<body>
+<div>[[*content]]</div>
+<section>
+[[!renderResources?
+        &parents=`[[*id]]`
+        &limit=`0`
+        &sortby=`{"menuindex":"ASC"}`
+		&depth=`0`
+    ]]
+</section>	
+</body>
+</html>

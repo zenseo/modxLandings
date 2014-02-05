@@ -1,0 +1,17 @@
+<?php return array (
+  'preserve_keys' => false,
+  'update_object' => true,
+  'unique_key' => 
+  array (
+    0 => 'namespace',
+    1 => 'controller',
+  ),
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f43a0258ede95614e9b926cc089255b4',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => 'cc9ffbf57f7a0560c02689c858dd270a',
+  'native_key' => 25,
+  'object' => '{"id":25,"namespace":"core","controller":"element\\/snippet","haslayout":1,"lang_topics":"snippet,propertyset,element","assets":"","help_url":"Snippets"}',
+);

@@ -1,0 +1,13 @@
+<?php return array (
+  'preserve_keys' => false,
+  'update_object' => false,
+  'unique_key' => 'class',
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '989e23a15bf9e543cb5b63bf0c0564da',
+  'package' => 'modx',
+  'class' => 'modClassMap',
+  'signature' => 'bf3bf4646f59e3320cdfb9ea8b62b3e3',
+  'native_key' => NULL,
+  'object' => '{"id":null,"class":"modWebLink","parent_class":"modResource","name_field":"pagetitle","path":"","lexicon":"core:resource"}',
+);

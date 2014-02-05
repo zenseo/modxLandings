@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ac9c908fb7d4babc7fe4548930d329b9',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '64e44706d84038f19e409a348dcad171',
+  'native_key' => 'feed_modx_news',
+  'object' => '{"key":"feed_modx_news","value":"http:\\/\\/feeds.feedburner.com\\/modx-announce","xtype":"textfield","namespace":"core","area":"system","editedon":null}',
+);

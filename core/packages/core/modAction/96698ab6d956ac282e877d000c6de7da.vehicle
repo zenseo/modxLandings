@@ -1,0 +1,17 @@
+<?php return array (
+  'preserve_keys' => false,
+  'update_object' => true,
+  'unique_key' => 
+  array (
+    0 => 'namespace',
+    1 => 'controller',
+  ),
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '374f5cf2005de7f6748522f8f15e4605',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '96698ab6d956ac282e877d000c6de7da',
+  'native_key' => 28,
+  'object' => '{"id":28,"namespace":"core","controller":"element\\/template","haslayout":1,"lang_topics":"template,propertyset,element","assets":"","help_url":"Templates"}',
+);
